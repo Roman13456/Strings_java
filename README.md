@@ -2,7 +2,7 @@
 
 **Clone the repository to your local machine**
 ```bash
-git clone https://github.com/your-username/repo.git
+git clone https://github.com/Roman13456/Strings_java.git
 ```
 
 **Navigate to the project directory**
