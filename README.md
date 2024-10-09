@@ -7,7 +7,7 @@ git clone https://github.com/Roman13456/Strings_java.git
 
 **Navigate to the project directory**
 ```bash
-cd strings_java
+cd Strings_java
 ```
 
 **Compile the code (if not using an IDE)**
@@ -16,7 +16,7 @@ javac -d bin src/string_operations.java
 ```
 
 **Run the program**
-```
-java -cp bin src/string_operations.java
+```bash
+java -cp bin string_operations
 ```
 
